@@ -1,4 +1,4 @@
-# fastify-ws
+# fastify-simple-ws
 
 [![Build Status](https://travis-ci.org/gj/fastify-ws.svg?branch=master)](https://travis-ci.org/gj/fastify-ws) [![npm version](https://badge.fury.io/js/fastify-ws.svg)](https://www.npmjs.com/package/fastify-ws)
 
