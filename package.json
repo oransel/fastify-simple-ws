@@ -1,7 +1,7 @@
 {
   "name": "fastify-simple-ws",
   "version": "0.5.0",
-  "description": "Basic WebSocket support for Fastify built on the blazing fast ws library.",
+  "description": "Simple WebSocket support for Fastify.",
   "main": "index.js",
   "scripts": {
     "test": "standard | snazzy && tap test.js"
