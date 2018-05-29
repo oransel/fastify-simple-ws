@@ -1,27 +1,26 @@
 {
-  "name": "fastify-ws",
+  "name": "fastify-simple-ws",
   "version": "0.5.0",
-  "description": "Basic WebSocket support for Fastify built on the blazing fast ws and uws libraries.",
+  "description": "Basic WebSocket support for Fastify built on the blazing fast ws library.",
   "main": "index.js",
   "scripts": {
     "test": "standard | snazzy && tap test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gj/fastify-ws.git"
+    "url": "git+https://github.com/oransel/fastify-simple-ws.git"
   },
   "keywords": [
     "fastify",
     "websocket",
-    "ws",
-    "uws"
+    "ws"
   ],
-  "author": "Gabe Jackson <gj@mail.co.de>",
+  "author": "Mustafa Oransel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gj/fastify-ws/issues"
+    "url": "https://github.com/oransel/fastify-simple-ws/issues"
   },
-  "homepage": "https://github.com/gj/fastify-ws#readme",
+  "homepage": "https://github.com/oransel/fastify-simple-ws#readme",
   "devDependencies": {
     "eslint": "^4.17.0",
     "fastify": "^1.4.0",
@@ -34,7 +33,6 @@
     "bufferutil": "^3.0.5",
     "fastify-plugin": "^1.0.1",
     "utf-8-validate": "^4.0.2",
-    "uws": "^10.148.0",
     "ws": "^5.1.1"
   }
 }
