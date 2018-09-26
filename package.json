@@ -33,7 +33,6 @@
     "bufferutil": "^3.0.5",
     "fastify-plugin": "^1.2.0",
     "utf-8-validate": "^4.0.2",
-    "uws": "10.148.0",
     "ws": "^5.2.1"
   }
 }
