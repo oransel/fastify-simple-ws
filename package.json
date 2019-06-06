@@ -1,6 +1,6 @@
 {
   "name": "fastify-simple-ws",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple WebSocket support for Fastify.",
   "main": "index.js",
   "scripts": {
